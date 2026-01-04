@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "春を歌にして",
   "base_artist": "back number",
-  "createdAt": "2025-12-01T13:09:55.416457Z",
+  "createdAt": "2026-01-04T16:13:26.276606Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,38 +51,6 @@
       "artist": "back number",
       "has_synced": false,
       "path": "select/pl_01_春を歌にして_back_number.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "春を歌にして",
-      "artist": "back number",
-      "has_synced": false,
-      "path": "select/pl_02_春を歌にして_back_number.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "春を歌にして",
-      "artist": "back number",
-      "has_synced": false,
-      "path": "select/pl_03_春を歌にして_back_number.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "春を歌にして",
-      "artist": "back number",
-      "has_synced": false,
-      "path": "select/pl_04_春を歌にして_back_number.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "春を歌にして",
-      "artist": "back number",
-      "has_synced": false,
-      "path": "select/pl_05_春を歌にして_back_number.txt"
     }
   ]
 }
