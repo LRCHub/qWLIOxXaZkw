@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "春を歌にして",
   "base_artist": "back number",
-  "createdAt": "2026-01-04T16:13:26.276606Z",
+  "createdAt": "2026-03-28T03:08:40.601451Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,14 @@
       "artist": "back number",
       "has_synced": true,
       "path": "select/05_春を歌にして_back_number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Back Number - 01.春を歌にして",
+      "artist": "Back Number",
+      "has_synced": true,
+      "path": "select/06_Back_Number_-_01.春を歌にして_Back_Number.lrc"
     },
     {
       "id": "petitlyrics_1",
